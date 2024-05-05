@@ -1,0 +1,41 @@
+body{
+    font-family:"Roboto", sans-serif;
+}
+.login{
+    background: linear-gradient(red,green);
+    padding: 20px;
+    width: max-content;
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+.login h2{
+   font-size: 40px;
+   color: yellow; 
+}
+.login form input{
+    width: 80%;
+    padding: 10px;
+    outline: none;
+    margin: 20px 0px;
+}
+.login form label{
+    font-size: 25px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.login p{
+    color: #fff;
+    font-size: 25px;
+}
+.login p a{
+    
+    font-size: 20px;
+    text-decoration: none;
+}
+.login form select{
+    width: 80%;
+    padding: 10px;
+    outline: none;
+    margin: 20px 0px;
+}
